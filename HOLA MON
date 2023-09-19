@@ -1,9 +1,9 @@
 <!doctype html>
   <html>
     <head>
-      <title>Our Funky HTML Page</title>
-      <meta name="description" content="Our first page">
-      <meta name="keywords" content="html tutorial template">
+      <title>Aqui va el titul de la pagina</title>
+      <meta name="description" content="Aqui va el titutl de la pagina">
+      <meta name="keywords" content="html">
     </head>
     <body>
       Content goes here.
