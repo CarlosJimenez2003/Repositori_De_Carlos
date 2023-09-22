@@ -1,11 +1,23 @@
 <!doctype html>
   <html>
+      
     <head>
-      <title>Aqui va el titul de la pagina</title>
+      <title>Que es un repositori i llocs estatic</title>
       <meta name="description" content="Aqui va el titutl de la pagina">
       <meta name="keywords" content="html">
     </head>
+	<h2>Que es un repositori</h2>
+	<p>Un repositorio es un espacio centralizado donde se almacena,
+	 organiza, mantiene y difunde información digital,
+	 habitualmente archivos informáticos, que pueden contener trabajos científicos,
+ 	conjuntos de datos o software. Los repositorios tienen sus inicios en los años 90, en el área de la física y las matemáticas,
+	 donde los académicos aprovecharon la red para compartir sus investigaciones con otros colegas. Este proceso era valioso porque
+ 	aceleraba el ciclo científico de publicación y revisión de resultados.</p>
+
+	<h3>Web Dinamica</h3>
+	<p>El concepte de pàgina web dinàmica neix en contraposició a les pàgines web clàssiques en format html.
+	 Aquestos documents no permeten la interacció amb l'usuari, més enllà de fer clics en els enllaços.</p>
     <body>
-      Content goes here.
+      
     </body>
   </html>
